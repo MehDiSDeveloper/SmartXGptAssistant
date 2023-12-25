@@ -1,0 +1,33 @@
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.deps.json
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.dll
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.pdb
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.dll
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\refint\SmartXGPT.Service.dll
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.pdb
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\ref\SmartXGPT.Service.dll
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.deps.json
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.dll
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.pdb
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.AssemblyInfoInputs.cache
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.AssemblyInfo.cs
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.csproj.CoreCompileInputs.cache
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.dll
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\refint\SmartXGPT.Service.dll
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.pdb
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\ref\SmartXGPT.Service.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.deps.json
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\bin\Debug\net7.0\SmartXGPT.Service.pdb
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.AssemblyInfoInputs.cache
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.AssemblyInfo.cs
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.csproj.CoreCompileInputs.cache
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\refint\SmartXGPT.Service.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\SmartXGPT.Service.pdb
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Service\obj\Debug\net7.0\ref\SmartXGPT.Service.dll

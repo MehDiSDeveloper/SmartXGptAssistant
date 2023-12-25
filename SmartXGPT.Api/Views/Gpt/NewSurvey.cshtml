@@ -1,0 +1,154 @@
+﻿@using SmartXGPT.Service.Models.DTOs;
+
+@model SurveyResultDto
+<section class="section">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-5 col-lg-4">
+                <div class="card rounded shadow p-4 border-0">
+                    <a class="btn btn-pills btn-icon btn-primary mb-4" asp-action="SurveyListIndex" asp-controller="Gpt"><i class="fa fa-list"></i></a>
+                    <h4 class="mb-3">فرم نظرسنجی</h4>
+                    <form class="needs-validation" novalidate="" asp-action="NewSurvey" asp-controller="Gpt" method="post">
+                        <div class="row g-3">
+                            <input class="disabled" hidden asp-for="Id" type="text" />
+                            <div class="col-sm-12">
+                                <label class="form-label" for="CustomerName">نام مشتری</label>
+                                <br />
+                                <span asp-validation-for="CustomerName" class="text-danger"></span>
+                                <input class="form-control" asp-for="CustomerName" type="text" placeholder="نام مشتری">
+                                <div class="invalid-feedback"> نام معتبر مورد نیاز است. </div>
+                            </div>
+                            <div class="col-sm-12">
+                                <label class="form-label" for="RestaurantName">نام رستوران</label>
+                                <br />
+                                <span asp-validation-for="RestaurantName" class="text-danger"></span>
+                                <input class="form-control" asp-for="RestaurantName" placeholder="نام رستوران" type="text">
+                                <div class="invalid-feedback"> نام معتبر مورد نیاز است. </div>
+                            </div>
+                        </div>
+
+
+                        <div class="form-check mt-4 pt-4 border-top">
+                            <div class="col-md-12">
+                                <label class="form-label" for="FoodQuality">کیفیت غذا</label>
+                                <select class="form-select form-control" asp-for="FoodQuality" required="">
+                                    <option value="0">انتخاب کنید</option>
+                                    <option value="5">عالی</option>
+                                    <option value="4">خوب</option>
+                                    <option value="3">معمولی</option>
+                                    <option value="2">بد</option>
+                                    <option value="1">افتضاح</option>
+                                </select>
+                                <div class="invalid-feedback"> لطفاً یک وضعیت معتبر ارائه دهید. </div>
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="Cleanliness">بهداشت</label>
+                                <select class="form-select form-control" asp-for="Cleanliness" required="">
+                                    <option value="0">انتخاب کنید</option>
+                                    <option value="5">عالی</option>
+                                    <option value="4">خوب</option>
+                                    <option value="3">معمولی</option>
+                                    <option value="2">بد</option>
+                                    <option value="1">افتضاح</option>
+                                </select>
+                                <div class="invalid-feedback"> لطفاً یک وضعیت معتبر ارائه دهید. </div>
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="Price">قیمت غذا</label>
+                                <select class="form-select form-control" asp-for="Price" required="">
+                                    <option value="0">انتخاب کنید</option>
+                                    <option value="5">عالی</option>
+                                    <option value="4">خوب</option>
+                                    <option value="3">معمولی</option>
+                                    <option value="2">بد</option>
+                                    <option value="1">افتضاح</option>
+                                </select>
+                                <div class="invalid-feedback"> لطفاً یک وضعیت معتبر ارائه دهید. </div>
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="Behavior">رفتار پرسنل</label>
+                                <select class="form-select form-control" asp-for="Behavior" required="">
+                                    <option value="0">انتخاب کنید</option>
+                                    <option value="5">عالی</option>
+                                    <option value="4">خوب</option>
+                                    <option value="3">معمولی</option>
+                                    <option value="2">بد</option>
+                                    <option value="1">افتضاح</option>
+                                </select>
+                                <div class="invalid-feedback"> لطفاً یک وضعیت معتبر ارائه دهید. </div>
+                            </div>
+                            <div class="form-check mt-4 pt-4 border-top">
+                                <div class="col-md-12">
+                                    <label class="form-label" for="Overall">* در مجموع</label>
+                                    <br />
+                                    <span asp-validation-for="Overall" class="text-danger"></span>
+                                    <select class="form-select form-control" asp-for="Overall" required="">
+                                        <option>انتخاب کنید</option>
+                                        <option value="5">عالی</option>
+                                        <option value="4">خوب</option>
+                                        <option value="3">معمولی</option>
+                                        <option value="2">بد</option>
+                                        <option value="1">افتضاح</option>>
+                                    </select>
+                                    <div class="invalid-feedback"> لطفاً یک وضعیت معتبر ارائه دهید. </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <h4 class="mb-3 mt-4 pt-4 border-top">انتقاد و پیشنهاد</h4>
+                        <br />
+                        <span asp-validation-for="Comment" class="text-danger"></span>
+                        <textarea class="form-control-lg form-control  p-5" asp-for="Comment"></textarea>
+
+                        <div class="form-check mt-4 pt-4 border-top">
+                            <div class="col-md-12">
+                                <label class="form-label" for="Temperature">Temperature</label>
+                                <br />
+                                <span asp-validation-for="Temperature" class="text-danger"></span>
+                                <input type="number" asp-for="Temperature" class="form-control-lg form-control " placeholder="0.8" value="0.8" />
+                            </div>
+                        </div>
+                        <div class="form-check pt-2 border-top">
+                            <input class="form-check-input" type="checkbox" asp-for="DoSimple" value="true" checked>
+                            <label class="form-check-label" for="DoSimple">ساده</label>
+                        </div>
+                        <div class="form-check pt-2">
+                            <input class="form-check-input" type="checkbox" asp-for="DoTranslate" value="true">
+                            <label class="form-check-label" for="DoTranslate">با ترجمه</label>
+                        </div>
+                        <div class="form-check pt-2">
+                            <input class="form-check-input" type="checkbox" asp-for="DoHierarchy" value="true">
+                            <label class="form-check-label" for="DoHierarchy">با کانتکس</label>
+                        </div>
+                        <div class="form-check pt-2">
+                            <input class="form-check-input" type="checkbox" asp-for="DoSms" value="true">
+                            <label class="form-check-label" for="DoSms">پیامک</label>
+                        </div>
+                        <div class="form-check pt-2">
+                            <input class="form-check-input" type="checkbox" asp-for="DoCommentSms" value="true">
+                            <label class="form-check-label" for="DoCommentSms">پیامک کامنت</label>
+                        </div>
+                        
+
+
+                        <button class="w-100 btn btn-primary mt-5" type="submit">ارسال</button>
+                    </form>
+                </div>
+            </div><!--end col-->
+
+            <div class="col-md-7 col-lg-8 order-md-last">
+                <div class="card rounded shadow p-4 border-0 sticky-bar">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <span class="h5 mb-0">نتایج</span>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div><!--end row-->
+    </div><!--end container-->
+</section>

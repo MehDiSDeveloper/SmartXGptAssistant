@@ -1,0 +1,83 @@
+﻿@using SmartXGPT.Service.Models.DTOs;
+
+@model AssistantReqDto
+@{
+    ViewData["Title"] = "GPT Call";
+}
+
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-lg-5">
+                <div class="card rounded shadow p-4 border-0">
+
+                    <a class="btn btn-pills btn-icon btn-primary mb-4" asp-action="SurveyListIndex" asp-controller="Gpt"><i class="fa fa-list"></i></a>
+
+                    <form asp-action="Assistant" asp-controller="Gpt" method="post">
+                        
+                        <input type="hidden" value="@Model.ThreadId" name="ThreadId" asp-for="ThreadId" />
+
+                        <div class="form-check mt-4 pt-4">
+
+                            <h4 class="mb-3 mt-4 pt-4 border-top">سوال</h4>
+                            <br />
+                            <textarea class="form-control-lg form-control  p-5" asp-for="Question"></textarea>
+                            
+                        </div>
+
+                        <button class="w-100 btn btn-primary mt-5" type="submit">ارسال</button>
+                    </form>
+
+
+
+                </div>
+            </div><!--end col-->
+
+            @if (Model != null)
+            {
+                
+                <div class="col-md-6 col-lg-7 ">
+
+                    <div class="card rounded shadow p-4 border-0 sticky-bar">
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <span class="h5 mb-0">نتایج</span>
+                        </div>
+
+                        <ul class="list-group mb-5 border message-back">
+
+
+                            @if (!string.IsNullOrEmpty(Model.Answer))
+                            {
+                            <li class="d-flex justify-content-between lh-sm">
+                                <div class="form-check pt-2 border-top">
+                                    <p class="text-muted">@Model.Question</p>
+                                </div>
+                            </li>
+                            
+                                <li class="d-flex justify-content-between lh-sm border-top pt-4 ">
+                                    <div>
+                                        <h6 class="my-0">پاسخ</h6>
+                                        <div class="mt-2">
+                                            <small class="text-muted">chars: @Model.Answer.Length</small>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="d-flex justify-content-between lh-sm">
+
+                                    <div class="form-check pt-2 border-top">
+                                        @Html.Raw(Model.Answer)
+                                    </div>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            }
+
+
+            <!--end col-->
+        </div>
+    </div>
+
+
+</section>

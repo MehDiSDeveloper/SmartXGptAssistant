@@ -1,0 +1,81 @@
+{
+  "name": "SetEvent",
+  "description": "user can set an event to give some of the his restaurant customer an offer, assistant must get the necessary parameters from user(restaurant manager) step by step with follow-up questions.ask each property in one question",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "AllowedDays": {
+        "type": "integer",
+        "description": "sets the offer useable days until it expires"
+      },
+      "MessageSendDate": {
+        "type": "string",
+        "description": "the start date of giving offer in iranian solar year format. it must be in yyyy/mm/dd format"
+      },
+      "SendExpireNotification": {
+        "type": "string",
+        "description": "determins if the user wants to send his customers a reminding sms in expiration date",
+        "enum": [
+          "True",
+          "False"
+        ]
+      },
+      "Amount": {
+        "type": "integer",
+        "description": "sets the the amount of offer user wants to give to his customers.this property is required if the offerType is GivingCredit or GivingOff.it must be a amount of money in rials currency if the offerType is GivingCredit and it must be a percentage of off the user wants to give to his customers if the offerType is GivingOff.if offerType is Informing this property is not required."
+      },
+      "MessagesSendHour": {
+        "type": "integer",
+        "description": "the hour user wants to publish the offer to his customers using sms. this must be between 1 to 24"
+      },
+      "MessagePassage": {
+        "type": "string",
+        "description": "the passage of message user wants to send to his customers via sms to inform them about the offer"
+      },
+      "creatorLastName": {
+        "type": "string",
+        "description": "the last name of the user"
+      },
+      "creatorPhoneNumber": {
+        "type": "string",
+        "description": "the phone number of the reataurant manager(user)"
+      },
+      "RestaurantName": {
+        "type": "string",
+        "description": "the name of the restaurant providing the offer"
+      },
+      "offerType": {
+        "type": "string",
+        "description": "determins what type of offer the user wants to give to his customers.Informing is just to inform them.GivingCredit in case he wants to give money credit. and GivingOff in case he wants to offer off percentage",
+        "enum": [
+          "Informing",
+          "GivingCredit",
+          "GivingOff"
+        ]
+      },
+      "customerType": {
+        "type": "string",
+        "description": "determins what group of customers will get the offer",
+        "enum": [
+          "LostCustomers",
+          "ActiveCustomers",
+          "AllCustomers",
+          "ConsultNeededCustomers",
+          "Others"
+        ]
+      }
+    },
+    "required": [
+      "AllowedDays",
+      "MessageSendDate",
+      "SendExpireNotification",
+      "Amount",
+      "MessagesSendHour",
+      "creatorLastName",
+      "creatorPhoneNumber",
+      "RestaurantName",
+      "offerType",
+      "customerType"
+    ]
+  }
+}

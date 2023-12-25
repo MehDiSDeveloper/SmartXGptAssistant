@@ -1,0 +1,51 @@
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.deps.json
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.dll
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.pdb
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Service.dll
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Service.pdb
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.CopyComplete
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.dll
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\refint\SmartXGPT.Infrastructure.dll
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.pdb
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\ref\SmartXGPT.Infrastructure.dll
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.runtimeconfig.json
+C:\Users\Mahdi\source\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.genruntimeconfig.cache
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.deps.json
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.runtimeconfig.json
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.dll
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.pdb
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Service.dll
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Service.pdb
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.AssemblyReference.cache
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.AssemblyInfoInputs.cache
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.AssemblyInfo.cs
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.CopyComplete
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.dll
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\refint\SmartXGPT.Infrastructure.dll
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.pdb
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.genruntimeconfig.cache
+D:\Dev Learning\repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\ref\SmartXGPT.Infrastructure.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.deps.json
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.runtimeconfig.json
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Infrastructure.pdb
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Service.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\bin\Debug\net7.0\SmartXGPT.Service.pdb
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.AssemblyReference.cache
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.AssemblyInfoInputs.cache
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.AssemblyInfo.cs
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.csproj.CopyComplete
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\refint\SmartXGPT.Infrastructure.dll
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.pdb
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\SmartXGPT.Infrastructure.genruntimeconfig.cache
+C:\SmartX Related\repos\Smart Repos\SmartXGPT\SmartXGPT.Infrastructure\obj\Debug\net7.0\ref\SmartXGPT.Infrastructure.dll

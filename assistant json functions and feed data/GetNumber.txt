@@ -1,0 +1,21 @@
+{
+  "name": "GetNumber",
+  "description": "get the phone number of a person using his name",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "the name of the person to retrive his number"
+      },
+      "userId": {
+        "type": "string",
+        "description": "the Id of the asking user wich assistant must get from provided id by system"
+      }
+    },
+    "required": [
+      "name",
+      "userId"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = true
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SmartXGPT.API
+build_property.RootNamespace = SmartXGPT.API
+build_property.ProjectDir = D:\Dev Learning\repos\SmartXGPT\SmartXGPT.API\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Dev Learning\repos\SmartXGPT\SmartXGPT.API
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Gpt/EditSurvey.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3B0XEVkaXRTdXJ2ZXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Gpt/GptManualCall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3B0XEdwdE1hbnVhbENhbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Gpt/GptManualCallWithContext.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3B0XEdwdE1hbnVhbENhbGxXaXRoQ29udGV4dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Gpt/NewSurvey.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3B0XE5ld1N1cnZleS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Gpt/SurveyListIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3B0XFN1cnZleUxpc3RJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Gpt/ViewMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3B0XFZpZXdNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Gpt/ViewSurvey.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3B0XFZpZXdTdXJ2ZXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dev Learning/repos/SmartXGPT/SmartXGPT.API/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-010ekyybx6

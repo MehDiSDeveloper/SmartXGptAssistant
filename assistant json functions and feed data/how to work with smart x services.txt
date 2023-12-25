@@ -1,0 +1,14 @@
+if a user have questions about Smart X UI and the way to use Smart X services ,here is guide to lead user through Smart X UI menus
+
+
+the way to creat an event:
+main menue/events/create a new event buttom
+
+the way to send a group message:
+main menue/messages/send a new message buttom/ fill the form with who you want to send the messge to and the content text/submit buttom
+
+the way to delete a message:
+main menue/messages/find the message you want to delete/right click on it/choose "delete" buttom
+
+the way to create a backup file:
+main menue/backup/create a new backup buttom
