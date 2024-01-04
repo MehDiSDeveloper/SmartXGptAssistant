@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartXGPT.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77d395a02e23437a47e118f510d6df87b098ab01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartXGPT.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartXGPT.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
